@@ -1,0 +1,69 @@
+/*Mise en page citation */
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: rgb(0, 162, 255);
+  font-size: 3em;
+  font-family: 'Dancing Script', cursive;
+}
+#photo {
+    width: 100px;
+    height: 100px;
+    
+        margin-right: 20px;
+        width: 75px;
+        height: 75px;
+        border-radius: 50%;
+        border: 3px solid #fff;
+        object-fit: cover;
+    }
+
+
+body {
+    background-image: url(Barbie-Pink-Glitter-Background-Free.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.btn {
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    color: plum;
+    margin-bottom: 3em;
+}
+.button{
+    color: plum;
+    font-family: 'Sansita Swashed', cursive;
+    margin-bottom: 3em;
+}
+.contenair {
+    text-align: center;
+}
+
+h1 {
+    color: #e54194;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 6em;
+}
+.fas{
+    color:#e54194;
+    size: 100%;
+    text-size-adjust: 3em;
+}
+
+#author {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: rgb(0, 162, 255);
+    font-size: 3em;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+
+
